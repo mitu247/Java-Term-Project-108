@@ -1,0 +1,37 @@
+.table-view {
+    -fx-background-color: transparent;
+}
+.table-view:row-selection .table-row-cell:filled:hover {
+    -fx-background-color: #ffff99;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-text-fill: -fx-text-inner-color;
+}
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-background-color: #40403b;
+    -fx-font-family: "Bernard MT Condensed";
+    -fx-font-weight: bold;
+}
+
+.table-column {
+    -fx-alignment: center;
+    -fx-font-family: "HoloLens MDL2 Assets";
+    -fx-font-size: 22;
+}
+
+.table-row-cell:even {
+    -fx-background-color: #f0c151;
+}
+.table-row-cell:odd {
+    -fx-background-color: #d4ac4e;
+}
+.button {
+    -fx-background-color: #f0d38b;
+    -fx-border: none;
+    -fx-text-fill: black;
+    -fx-font-size: 20px;
+}
+.button:hover {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: black;
+}

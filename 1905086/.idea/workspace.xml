@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35559534-d07d-4cb9-82b4-72bd6479e400" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1vPEhYnkm8mQHS0hf0dUUPB1gfK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00AAABB\Trial\SingleScene\src\LogIn" />
+      <recent name="C:\Users\User\Desktop\SingleScene\src" />
+      <recent name="D:\00AAABB\JavaFX\SingleScene" />
+      <recent name="D:\00AAABB\JavaFX\SingleScene\src\MyCode" />
+      <recent name="D:\00AAABB\JavaFX\SingleScene\src\HomePage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\00AAABB\JavaFX\SingleScene\src\LogIn" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LogIn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePage.Main" />
+      <module name="SingleScene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogIn.Main" />
+      <module name="SingleScene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogIn.Main" />
+      <module name="SingleScene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LogIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Network.Server" />
+      <module name="SingleScene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Network.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35559534-d07d-4cb9-82b4-72bd6479e400" name="Default Changelist" comment="" />
+      <created>1626455448066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626455448066</updated>
+      <workItem from="1626455449894" duration="911000" />
+      <workItem from="1626494101915" duration="5160000" />
+      <workItem from="1626613606539" duration="9717000" />
+      <workItem from="1626671957491" duration="20294000" />
+      <workItem from="1626757503230" duration="17244000" />
+      <workItem from="1626788973681" duration="5381000" />
+      <workItem from="1626864699436" duration="1239000" />
+      <workItem from="1626867075717" duration="1255000" />
+      <workItem from="1626929273554" duration="257000" />
+      <workItem from="1626961845030" duration="1459000" />
+      <workItem from="1627062670585" duration="9452000" />
+      <workItem from="1627108737172" duration="1434000" />
+      <workItem from="1627130498152" duration="230000" />
+      <workItem from="1627130740267" duration="6565000" />
+      <workItem from="1627203216138" duration="6832000" />
+      <workItem from="1627213288823" duration="14722000" />
+      <workItem from="1627285167679" duration="5413000" />
+      <workItem from="1627290841839" duration="460000" />
+      <workItem from="1627299537759" duration="6678000" />
+      <workItem from="1627308080235" duration="1926000" />
+      <workItem from="1627310660528" duration="4750000" />
+      <workItem from="1627315643575" duration="12000" />
+      <workItem from="1627388854497" duration="1402000" />
+      <workItem from="1627403818457" duration="601000" />
+      <workItem from="1627404448353" duration="1948000" />
+      <workItem from="1627406532221" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

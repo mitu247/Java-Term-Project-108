@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<GridPane prefHeight="208.0" prefWidth="368.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LogIn.setPriceController">
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+    </rowConstraints>
+    <children>
+        <AnchorPane prefHeight="545.0" prefWidth="952.0" style="-fx-background-color: #edd598;">
+            <children>
+                <Label layoutY="-1.0" prefHeight="46.0" prefWidth="368.0" style="-fx-alignment: center; -fx-background-color: #e3c271;" text="Price">
+                    <font>
+                        <Font name="HoloLens MDL2 Assets" size="27.0" />
+                    </font>
+               <textFill>
+                  <LinearGradient endX="1.0" endY="1.0">
+                     <stops>
+                        <Stop>
+                           <color>
+                              <Color red="0.9078947305679321" green="0.08826754242181778" blue="0.08826754242181778" />
+                           </color>
+                        </Stop>
+                        <Stop offset="1.0">
+                           <color>
+                              <Color />
+                           </color>
+                        </Stop>
+                     </stops>
+                  </LinearGradient>
+               </textFill>
+                </Label>
+                <TextField fx:id="price" layoutX="158.0" layoutY="76.0" prefHeight="56.0" prefWidth="188.0" style="-fx-background-color: #edd598;">
+                    <font>
+                        <Font name="HoloLens MDL2 Assets" size="20.0" />
+                    </font></TextField>
+                <Label layoutY="87.0" prefHeight="34.0" prefWidth="176.0" text="Set Price ($) :">
+                    <font>
+                        <Font name="HoloLens MDL2 Assets" size="27.0" />
+                    </font>
+               <textFill>
+                  <LinearGradient endX="1.0" endY="1.0">
+                     <stops>
+                        <Stop>
+                           <color>
+                              <Color red="0.9078947305679321" green="0.08826754242181778" blue="0.08826754242181778" />
+                           </color>
+                        </Stop>
+                        <Stop offset="1.0">
+                           <color>
+                              <Color />
+                           </color>
+                        </Stop>
+                     </stops>
+                  </LinearGradient>
+               </textFill>
+                </Label>
+                <Button layoutX="249.0" layoutY="148.0" mnemonicParsing="false" onAction="#savePrice" style="-fx-border-color: black;" stylesheets="@Mouse_Hover1.css" text="Submit">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></Button>
+            <Line endX="100.0" layoutX="254.0" layoutY="132.0" startX="-100.0" strokeWidth="0.3" />
+            </children></AnchorPane>
+    </children>
+</GridPane>
